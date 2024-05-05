@@ -25,5 +25,5 @@ Once the project is installed locally, you can use it to:
 *Screenshot of the Zingah Fruit & Veg Store webpage.*
 
 ## Credits
-This project was created by [Your Name].
+This project was created by [Phikolomzi].
 
